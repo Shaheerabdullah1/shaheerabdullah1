@@ -85,7 +85,7 @@
 </p>
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/Unsloth%20(Finetuning)-FF6F61?style=for-the-badge&logo=python&logoColor=white](https://avatars.githubusercontent.com/u/150920049?s=280&v=4)"/>
+  <img src="https://img.shields.io/badge/Unsloth%20(Finetuning)-FF6F61?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-2E86C1?style=for-the-badge&logo=graph&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FC3627?style=for-the-badge&logo=databricks&logoColor=white"/>
