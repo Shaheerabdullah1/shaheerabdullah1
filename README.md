@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shaheer Abdullah</h1>
-<h3 align="center">🚀 AI Engineer | Crafting Intelligent Systems that Think, Learn & Scale</h3>
+<h1 align="center">Hi , I'm Shaheer Abdullah Makavi </h1>
+<h3 align="center"> AI Engineer | Crafting Intelligent Systems that Think, Learn & Scale </h3>
 
 ---
 
