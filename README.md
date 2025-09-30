@@ -14,7 +14,7 @@
 
 ### 🔭 Currently Working On
 - **AI-Powered Real-Time Audio Intelligence**  
-  *Building Krisp-like software with **Noise Reduction, Accent Neutralization, and Multilingual Translation** for call centers.*
+*Building advanced software with **Noise Reduction, Accent Neutralization, and Multilingual Translation** to enable clear and effective global communication in call centers.*
 
 ### 🌱 Currently Learning
 - Advanced Prompt Engineering  
