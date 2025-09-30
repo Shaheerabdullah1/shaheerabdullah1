@@ -38,6 +38,24 @@
 
 ---
 
+### 🚀 Featured Projects
+<p align="left">
+  <a href="https://github.com/Shaheerabdullah1/LLM-Secure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shaheerabdullah1/ASK-SQL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shaheerabdullah1/RAG-Langchian-CassandraDB-ChatPDF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Langchian-CassandraDB-ChatPDF&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shaheerabdullah1/Machine-Learning-Projects/tree/main/Pneumonia-detection-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+---
+
 ### 📂 My Projects & Portfolio
 - 🌐 Portfolio: [profound-baklava-ff5b4d.netlify.app](https://profound-baklava-ff5b4d.netlify.app/)  
 - 💻 GitHub Projects: [github.com/Shaheerabdullah1](https://github.com/Shaheerabdullah1)  
@@ -63,7 +81,14 @@
 
 ### ⚙️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,gcp,postgres,mysql,mongodb,opencv,react,js,java,cpp,fastapi,nginx,git,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,gcp,postgres,mysql,mongodb,opencv,react,js,java,cpp,nginx,git,linux,fastapi,azure&perline=9" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unsloth%20(Finetuning)-FF6F61?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-2E86C1?style=for-the-badge&logo=graph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FC3627?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ---
