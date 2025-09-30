@@ -34,7 +34,7 @@
 ---
 
 ### 💬 Ask Me About
-**Finetuning of LLMs • LangChain • Generative AI • RAG Pipelines • AI Automation**
+**• Finetuning of LLMs • LangChain • Generative AI • RAG Pipelines • AI Automation**
 
 ---
 
