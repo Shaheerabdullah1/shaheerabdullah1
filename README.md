@@ -1,10 +1,11 @@
-<h1 align="center">Hi , I'm Shaheer Abdullah Makavi</h1>
+<h1 align="center">Hi, I'm Shaheer Abdullah Makavi</h1>
 <h3 align="center">AI Engineer | Crafting Intelligent Systems that Think, Learn & Scale</h3>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaheerabdullah1&label=Profile%20Views&color=0e75b6&style=flat" alt="shaheerabdullah1" />
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shaheerabdullah1&theme=gruvbox&margin-w=10&margin-h=10" alt="trophies" />
   </a>
@@ -14,18 +15,18 @@
 
 ### 🔭 Currently Working On
 - **AI-Powered Real-Time Audio Intelligence**  
-*Building advanced software with **Noise Reduction, Accent Neutralization, and Multilingual Translation** to enable clear and effective global communication in call centers.*
+  Building advanced software with **Noise Reduction, Accent Neutralization, and Multilingual Translation** to enable clear and effective global communication in call centers.
 
 ### 🌱 Currently Learning
 - Advanced Prompt Engineering  
-- Multi-modal RAG Architectures  
+- Multi-Modal RAG Architectures  
 - LLM Quantization & Inference Optimization  
 
 ### 🤝 Open to Collaborate On
-- **Open-source AI Projects** in  
+- **Open-source AI Projects** in:  
   - 🧠 **NLP** (LLMs, Chatbots, RAG)  
   - 👁️ **Computer Vision** (Segmentation, Detection, Generative Models)  
-  - ⚡ **AI-driven Automation** and backend systems  
+  - ⚡ **AI-driven Automation** and Backend Systems  
 
 ### 👐 Looking for Help With
 - **Optimizing Generative AI Inference for Production**  
@@ -66,15 +67,15 @@
 
 ### 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/shaheer01/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://kaggle.com/shaheerabdullah12" target="blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-<a href="https://medium.com/@shaheer.abdullah991" target="blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/shaheer01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/shaheerabdullah12" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@shaheer.abdullah991" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -95,14 +96,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheerabdullah1&show_icons=true&theme=tokyonight" alt="stats" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerabdullah1&" alt="shaheerabdullah1" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerabdullah1&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheerabdullah1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaheerabdullah1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerabdullah1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### ⚡ Fun Fact
 **Sometimes I talk to my AI models… and they talk back 😅**
-
----
