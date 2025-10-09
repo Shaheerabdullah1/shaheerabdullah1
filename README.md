@@ -100,7 +100,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shaheerabdullah1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=shaheerabdullah1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerabdullah1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
