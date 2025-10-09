@@ -96,7 +96,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaheerabdullah1&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaheerabdullah1&theme=tokyonight" alt="streak" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerabdullah1&" alt="shaheerabdullah1" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerabdullah1&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
