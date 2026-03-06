@@ -66,23 +66,31 @@ The system is designed to improve communication clarity across global teams.
 <p align="center">
 
 <a href="https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Observability-Drift-Detection-Pipeline&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+LLM Observability & Drift Detection Pipeline
 </a>
+
+<br><br>
 
 <a href="https://github.com/Shaheerabdullah1/ASK-SQL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+ASK-SQL
 </a>
+
+<br><br>
 
 <a href="https://github.com/Shaheerabdullah1/LLM-Secure">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+LLM Secure
 </a>
+
+<br><br>
 
 <a href="https://github.com/Shaheerabdullah1/RAG-Production-Ready-Implementation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Production-Ready-Implementation&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+RAG Production Ready Implementation
 </a>
 
-<a href="https://github.com/Shaheerabdullah1/Machine-Learning-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<br><br>
+
+<a href="https://github.com/Shaheerabdullah1/Machine-Learning-Projects/tree/main/Pneumonia-detection-system">
+Pneumonia Detection System
 </a>
 
 </p>
