@@ -5,13 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems+that+Think;LLM+Engineering+%7C+Computer+Vision+%7C+AI+Infrastructure;Designing+Scalable+Intelligent+Systems" />
 </p>
 
----
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhub3QyZ2Y2eDNoZzR6b2k2c3ZlNGh3dDJjNHJxd3E4YXRkMW1hZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="700">
 </p>
 
----
 
 # About Me
 
@@ -27,7 +25,6 @@ My work spans multiple domains including:
 
 I build systems that move from research prototypes to production-ready deployments.
 
----
 
 # Current Work
 
@@ -42,7 +39,6 @@ Developing a real-time AI platform for call center environments that includes:
 
 The system is designed to improve communication clarity across global teams.
 
----
 
 # AI Engineering Focus Areas
 
@@ -64,35 +60,32 @@ The system is designed to improve communication clarity across global teams.
 - containerized ML workloads
 - distributed inference systems
 
----
 
 # Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Observability-Drift-Detection-Pipeline&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Observability-Drift-Detection-Pipeline&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Shaheerabdullah1/ASK-SQL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Shaheerabdullah1/LLM-Secure">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Shaheerabdullah1/RAG-Production-Ready-Implementation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Production-Ready-Implementation&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Production-Ready-Implementation&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Shaheerabdullah1/Machine-Learning-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
-</p>>
-
----
+</p>
 
 # Portfolio
 
@@ -108,7 +101,6 @@ https://medium.com/@shaheer.abdullah991
 Resume  
 https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view
 
----
 
 # Technology Stack
 
@@ -116,7 +108,6 @@ https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,gcp,postgres,mysql,mongodb,opencv,react,js,java,cpp,nginx,git,linux,fastapi,azure&perline=9"/>
 </p>
 
----
 
 # AI Engineering Tools
 
@@ -129,8 +120,6 @@ https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view
 
 </p>
 
----
-
 # GPU & AI Compute
 
 <p align="center">
@@ -139,7 +128,6 @@ https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view
 
 Training and inference pipelines leverage GPU acceleration and optimized ML frameworks to deploy scalable AI systems and real-time machine learning workloads.
 
----
 
 # GitHub Statistics
 
@@ -151,15 +139,11 @@ Training and inference pipelines leverage GPU acceleration and optimized ML fram
 
 </p>
 
----
-
 # GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerabdullah1&theme=tokyonight&hide_border=true">
 </p>
-
----
 
 # GitHub Activity Graph
 
@@ -167,15 +151,12 @@ Training and inference pipelines leverage GPU acceleration and optimized ML fram
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheerabdullah1&theme=tokyo-night&hide_border=true">
 </p>
 
----
 
 # GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shaheerabdullah1&theme=tokyonight&no-frame=true&column=7">
 </p>
-
----
 
 # Connect
 
@@ -195,15 +176,12 @@ Training and inference pipelines leverage GPU acceleration and optimized ML fram
 
 </p>
 
----
 
 # Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
-
----
 
 # Engineering Philosophy
 
