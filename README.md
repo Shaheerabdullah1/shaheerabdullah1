@@ -30,6 +30,17 @@ Developing enterprise-grade audio processing systems featuring:
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+<br/>
+
 ## Technical Expertise
 
 <table>
@@ -120,21 +131,92 @@ stack = {
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
+
 <br/>
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![LLM-Secure](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/LLM-Secure)
-[![ASK-SQL](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/ASK-SQL)
+### LLM Security Testing Platform
+[![LLM-Secure](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaheerabdullah1/LLM-Secure)
 
-[![RAG-Langchain-CassandraDB](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Langchian-CassandraDB-ChatPDF&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/RAG-Langchian-CassandraDB-ChatPDF)
-[![Machine-Learning-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/Machine-Learning-Projects)
+Testing framework for multiple LLMs with security protocols while leveraging proprietary model capabilities. Comprehensive evaluation suite for enterprise LLM deployment.
 
-</div>
+**Tech Stack:** Python • LangChain • Security Testing • LLM Evaluation
+
+</td>
+<td width="50%">
+
+### Natural Language to SQL Interface
+[![ASK-SQL](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaheerabdullah1/ASK-SQL)
+
+Intelligent system enabling database queries through natural language. Automatically converts text to SQL with visualization capabilities, eliminating SQL expertise requirements.
+
+**Tech Stack:** NLP • SQL Generation • Data Visualization • Python
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Production-Ready RAG System
+[![RAG-Production](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaheerabdullah1/RAG-Production-Ready-Implementation)
+
+Enterprise-grade RAG implementation with advanced document processing, chunking strategies, vector indexing, and optimized retrieval pipelines. Complete deployment configuration included.
+
+**Tech Stack:** LangChain • Vector DB • RAG • Production Deployment
+
+</td>
+<td width="50%">
+
+### Medical AI Diagnostic System
+[![Pneumonia-Detection](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaheerabdullah1/Machine-Learning-Projects/tree/main/Pneumonia-detection-system)
+
+Deep learning system for automated pneumonia detection from chest X-rays. Production-ready medical imaging AI with high accuracy diagnostic capabilities.
+
+**Tech Stack:** Computer Vision • CNNs • Medical AI • TensorFlow
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### LLM Observability & Drift Detection
+[![LLM-Observability](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline)
+
+Comprehensive monitoring pipeline for LLM performance tracking and drift detection. Real-time observability tools for production LLM systems with alerting mechanisms.
+
+**Tech Stack:** MLOps • Monitoring • Drift Detection • Pipeline Automation
+
+</td>
+<td width="50%">
+
+### Anime Face Generation with GANs
+[![Anime-GAN](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaheerabdullah1/Anime-Face-Generation-GenerativeAI)
+
+Implementation of DCGANs, VAEs, and GANs for high-quality anime face generation. Advanced generative modeling techniques with comprehensive training pipelines.
+
+**Tech Stack:** GANs • VAEs • Generative AI • PyTorch
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
 <br/>
 
 ## GitHub Analytics
@@ -157,6 +239,11 @@ stack = {
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+</div>
+
 <br/>
 
 ## Open for Collaboration
