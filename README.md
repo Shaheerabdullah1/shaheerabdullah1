@@ -12,9 +12,9 @@
 
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
+## Current Focus
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
@@ -28,9 +28,9 @@ Developing enterprise-grade audio processing systems featuring:
 
 <br clear="right"/>
 
----
+<br/>
 
-## 🧠 Technical Expertise
+## Technical Expertise
 
 <table>
 <tr>
@@ -78,9 +78,9 @@ stack = {
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -119,50 +119,47 @@ stack = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
+<br/>
 
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Shaheerabdullah1/LLM-Secure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Shaheerabdullah1/ASK-SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+[![LLM-Secure](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/LLM-Secure)
+[![ASK-SQL](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/ASK-SQL)
 
-<a href="https://github.com/Shaheerabdullah1/RAG-Langchian-CassandraDB-ChatPDF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Langchian-CassandraDB-ChatPDF&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Shaheerabdullah1/Machine-Learning-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+[![RAG-Langchain-CassandraDB](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Langchian-CassandraDB-ChatPDF&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/RAG-Langchian-CassandraDB-ChatPDF)
+[![Machine-Learning-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Shaheerabdullah1/Machine-Learning-Projects)
 
 </div>
 
----
+<br/>
+<br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheerabdullah1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerabdullah1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerabdullah1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheerabdullah1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph" />
 </div>
 
----
+<br/>
+<br/>
 
-## 🤝 Open for Collaboration
+## Open for Collaboration
 
 <table>
 <tr>
@@ -196,9 +193,10 @@ stack = {
 </tr>
 </table>
 
----
+<br/>
+<br/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -211,12 +209,13 @@ stack = {
 
 </div>
 
----
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
-  ### 💭 "Building AI systems that don't just work—they scale, adapt, and evolve"
+  ### "Building AI systems that don't just work—they scale, adapt, and evolve"
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
