@@ -70,23 +70,27 @@ The system is designed to improve communication clarity across global teams.
 
 <p align="center">
 
-<a href="https://github.com/Shaheerabdullah1/LLM-Secure">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true">
+<a href="https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Observability-Drift-Detection-Pipeline&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Shaheerabdullah1/ASK-SQL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=ASK-SQL&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Shaheerabdullah1/RAG-Langchian-CassandraDB-ChatPDF">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Langchian-CassandraDB-ChatPDF&theme=tokyonight&hide_border=true">
+<a href="https://github.com/Shaheerabdullah1/LLM-Secure">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=LLM-Secure&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Shaheerabdullah1/RAG-Production-Ready-Implementation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=RAG-Production-Ready-Implementation&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Shaheerabdullah1/Machine-Learning-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaheerabdullah1&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
+</p>>
 
 ---
 
@@ -130,10 +134,10 @@ https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view
 # GPU & AI Compute
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8UQH5bE4fKk/giphy.gif" width="650">
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/ai.gif" width="650"/>
 </p>
 
-Training and inference pipelines leverage GPU acceleration and optimized ML frameworks for scalable model deployment.
+Training and inference pipelines leverage GPU acceleration and optimized ML frameworks to deploy scalable AI systems and real-time machine learning workloads.
 
 ---
 
