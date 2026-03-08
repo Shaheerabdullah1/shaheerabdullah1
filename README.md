@@ -159,13 +159,6 @@ Training and inference pipelines leverage GPU acceleration and optimized ML fram
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheerabdullah1&theme=tokyo-night&hide_border=true">
 </p>
 
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shaheerabdullah1&theme=tokyonight&no-frame=true&column=7">
-</p>
-
 # Connect
 
 <p align="center">
