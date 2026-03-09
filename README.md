@@ -117,19 +117,33 @@ Deep learning computer vision model for automated pneumonia detection using ches
 </tr>
 </table>
 
-# Portfolio
+## 🌐 Portfolio & Professional Links
 
-Portfolio Website  
-https://profound-baklava-ff5b4d.netlify.app
+<p align="center">
 
-GitHub  
-https://github.com/Shaheerabdullah1
+<a href="https://shaheerabdullah.vercel.app/">
+🌍 Portfolio Website
+</a>
 
-Articles  
-https://medium.com/@shaheer.abdullah991
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
-Resume  
-https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view
+<a href="https://github.com/Shaheerabdullah1">
+💻 GitHub
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://medium.com/@shaheer.abdullah991">
+✍️ Articles
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view">
+📄 Resume
+</a>
+
+</p>
 
 
 # Technology Stack
