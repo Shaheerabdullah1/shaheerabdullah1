@@ -61,39 +61,61 @@ The system is designed to improve communication clarity across global teams.
 - distributed inference systems
 
 
-# Featured Projects
+## Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline">
-LLM Observability & Drift Detection Pipeline
-</a>
+### LLM Observability & Drift Detection
+Production pipeline for monitoring LLM outputs, detecting distribution drift, and ensuring model reliability in real-world systems.
 
-<br><br>
+🔗 https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline
 
-<a href="https://github.com/Shaheerabdullah1/ASK-SQL">
-ASK-SQL
-</a>
+</td>
 
-<br><br>
+<td width="50%">
 
-<a href="https://github.com/Shaheerabdullah1/LLM-Secure">
-LLM Secure
-</a>
+### ASK-SQL
+Natural Language → SQL system that converts user questions into SQL queries and generates human-readable answers.
 
-<br><br>
+🔗 https://github.com/Shaheerabdullah1/ASK-SQL
 
-<a href="https://github.com/Shaheerabdullah1/RAG-Production-Ready-Implementation">
-RAG Production Ready Implementation
-</a>
+</td>
+</tr>
 
-<br><br>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Shaheerabdullah1/Machine-Learning-Projects/tree/main/Pneumonia-detection-system">
-Pneumonia Detection System
-</a>
+### LLM Secure
+Security framework for protecting LLM applications against prompt injection, data leakage, and adversarial inputs.
 
-</p>
+🔗 https://github.com/Shaheerabdullah1/LLM-Secure
+
+</td>
+
+<td width="50%">
+
+### RAG Production Implementation
+Complete production-ready Retrieval Augmented Generation pipeline with embeddings, vector DB, and scalable APIs.
+
+🔗 https://github.com/Shaheerabdullah1/RAG-Production-Ready-Implementation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Pneumonia Detection System
+Deep learning computer vision model for automated pneumonia detection using chest X-ray images.
+
+🔗 https://github.com/Shaheerabdullah1/Machine-Learning-Projects/tree/main/Pneumonia-detection-system
+
+</td>
+
+</tr>
+</table>
 
 # Portfolio
 
