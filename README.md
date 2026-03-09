@@ -119,25 +119,43 @@ Deep learning computer vision model for automated pneumonia detection using ches
 
 ## 🌐 Portfolio & Professional Links
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="https://shaheerabdullah.vercel.app/">
-<img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍%20Portfolio%20Website-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+
+</td>
+
+<td align="center">
 
 <a href="https://github.com/Shaheerabdullah1">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 <a href="https://medium.com/@shaheer.abdullah991">
-<img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium">
+<img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium">
 </a>
+
+</td>
+
+<td align="center">
 
 <a href="https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view">
-<img src="https://img.shields.io/badge/Resume-Download-FF6B00?style=for-the-badge&logo=googledrive">
+<img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=googledrive">
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 # Technology Stack
 
