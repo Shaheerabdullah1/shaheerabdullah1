@@ -122,29 +122,22 @@ Deep learning computer vision model for automated pneumonia detection using ches
 <p align="center">
 
 <a href="https://shaheerabdullah.vercel.app/">
-🌍 Portfolio Website
+<img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge">
 </a>
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="https://github.com/Shaheerabdullah1">
-💻 GitHub
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
 </a>
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="https://medium.com/@shaheer.abdullah991">
-✍️ Articles
+<img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium">
 </a>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
-
 <a href="https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view">
-📄 Resume
+<img src="https://img.shields.io/badge/Resume-Download-FF6B00?style=for-the-badge&logo=googledrive">
 </a>
 
 </p>
-
 
 # Technology Stack
 
