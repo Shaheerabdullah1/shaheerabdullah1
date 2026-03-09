@@ -117,6 +117,45 @@ Deep learning computer vision model for automated pneumonia detection using ches
 </tr>
 </table>
 
+# Technology Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,gcp,postgres,mysql,mongodb,opencv,react,js,java,cpp,nginx,git,linux,fastapi,azure&perline=9"/>
+</p>
+
+
+# AI Engineering Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Databricks-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Unsloth-Finetuning-black?style=for-the-badge">
+
+</p>
+
+# GPU & AI Compute
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/ai.gif" width="650"/>
+</p>
+
+Training and inference pipelines leverage GPU acceleration and optimized ML frameworks to deploy scalable AI systems and real-time machine learning workloads.
+
+
+# GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerabdullah1&theme=tokyonight&hide_border=true">
+</p>
+
+# GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheerabdullah1&theme=tokyo-night&hide_border=true">
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -161,62 +200,6 @@ Explore my work, research, and AI projects across different platforms.
 </tr>
 </table>
 
-# Technology Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,gcp,postgres,mysql,mongodb,opencv,react,js,java,cpp,nginx,git,linux,fastapi,azure&perline=9"/>
-</p>
-
-
-# AI Engineering Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Databricks-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Unsloth-Finetuning-black?style=for-the-badge">
-
-</p>
-
-# GPU & AI Compute
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/ai.gif" width="650"/>
-</p>
-
-Training and inference pipelines leverage GPU acceleration and optimized ML frameworks to deploy scalable AI systems and real-time machine learning workloads.
-
-
-# GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerabdullah1&theme=tokyonight&hide_border=true">
-</p>
-
-# GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheerabdullah1&theme=tokyo-night&hide_border=true">
-</p>
-
-# Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/shaheer01/">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://kaggle.com/shaheerabdullah12">
-<img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle">
-</a>
-
-<a href="https://medium.com/@shaheer.abdullah991">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium">
-</a>
-
-</p>
 
 
 # Contribution Graph
