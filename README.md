@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Intelligent Systems | Generative AI | Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems+that+Think;LLM+Engineering+%7C+Computer+Vision+%7C+AI+Infrastructure;Designing+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Generative+AI+Platforms;LLM+Routing+%7C+Agentic+AI+%7C+RAG+Systems;Designing+Scalable+AI+Infrastructure" />
 </p>
 
 
