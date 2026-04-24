@@ -102,7 +102,7 @@ A real-time AI platform for call centers covering noise reduction, accent neutra
 I am actively looking for remote AI engineering roles. If you are building something interesting in the LLM or agentic AI space, I would love to hear about it.
 
 📧 [shaheer.abdullah991@gmail.com](mailto:shaheer.abdullah991@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+🔗 [LinkedIn](https://www.linkedin.com/in/shaheer01/)
 🌍 [Portfolio](https://shaheerabdullah.vercel.app/)
 ✍️ [Medium](https://medium.com/@shaheer.abdullah991)
 📄 [Resume](https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view)
