@@ -1,213 +1,79 @@
-<h1 align="center">Shaheer Abdullah Makavi</h1>
-<h3 align="center">AI Engineer | Intelligent Systems | Generative AI | Machine Learning</h3>
+# Shaheer Abdullah
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Generative+AI+Platforms;LLM+Routing+%7C+Agentic+AI+%7C+RAG+Systems;Designing+Scalable+AI+Infrastructure" />
-</p>
+AI Engineer · LLM Infrastructure · Agentic Systems · RAG Pipelines  
+Building AI that actually ships to production — open to remote roles worldwide.
 
+📍 Islamabad, Pakistan
 
-<p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-o5ky1ZlPnV4GUAT_6EGxA.gif" width="70%">
-</p>
+---
 
+## What I do
 
-# About Me
+| Area | Stack |
+|---|---|
+| LLM Engineering | LangChain, LangGraph, LlamaIndex, vLLM, Unsloth, Prompt Engineering |
+| RAG & Retrieval | ChromaDB, Pinecone, FAISS, Weaviate, Supabase |
+| Backend & APIs | FastAPI, PostgreSQL, n8n, Docker, Nginx |
+| Models & Infra | OpenAI, Groq, HuggingFace, Whisper, ElevenLabs |
+| Languages | Python (primary), JavaScript, Java, C++ |
 
-AI Engineer focused on building intelligent systems that combine machine learning, large language models, and scalable backend infrastructure.
+---
 
-My work spans multiple domains including:
+## Experience
 
-- Large Language Models
-- Retrieval Augmented Generation (RAG)
-- Computer Vision Systems
-- AI Automation Platforms
-- Production AI Infrastructure
+**AI Expert** — EmpireOne BPO Solutions · Remote · Jun 2025 – Present  
+→ Built end-to-end AI recruitment automation (n8n + FastAPI + PostgreSQL), cutting shortlisting time by 40%  
+→ Designed speech-to-text + LLM call evaluation pipeline that classifies calls and auto-generates QA scores at scale  
+→ Containerized all services with Docker + Nginx for high-volume, production-grade deployment  
 
-I build systems that move from research prototypes to production-ready deployments.
+**AI Developer** — Agile Loop · Islamabad · Apr 2024 – Jun 2025  
+→ Built LLM task decomposer with Groq + LLaMA-3-70B, reducing agent response time by 35%  
+→ Developed RAG system for RF network analysis — engineers query telecom PDF/CSV data in natural language  
+→ Fine-tuned Qwen2.5-3B with Unsloth for Lenovo Vantage PoC; built NL→VBA Excel automation agent  
 
-
-# Current Work
-
-### Real-Time Audio Intelligence Platform
-
-Developing a real-time AI platform for call center environments that includes:
-
-- Noise Reduction using deep learning
-- Accent Neutralization via speech models
-- Real-time multilingual translation
-- Low-latency streaming pipelines
-
-The system is designed to improve communication clarity across global teams.
-
-
-# AI Engineering Focus Areas
-
-### LLM Engineering
-- Prompt engineering
-- Model evaluation
-- RAG architecture design
-- LLM pipelines
-
-### Computer Vision Systems
-- Image segmentation
-- Object detection
-- Medical imaging models
-- Generative vision models
-
-### AI Infrastructure
-- GPU inference pipelines
-- CUDA optimized deployments
-- containerized ML workloads
-- distributed inference systems
-
+---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### [NeuralRoute](https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline)
+LLM query router that classifies prompt complexity with DistilBERT and dynamically routes to the appropriate model — avoiding unnecessary calls to expensive APIs.  
+**~60% reduction in LLM inference costs** · `DistilBERT` `FastAPI` `React` `OpenAI`
 
-### LLM Observability & Drift Detection
-Production pipeline for monitoring LLM outputs, detecting distribution drift, and ensuring model reliability in real-world systems.
+### [LLM-Secure](https://github.com/Shaheerabdullah1/LLM-Secure)
+Privacy-preserving LLM pipeline using dual LLaMA3-8B models. One redacts PII on a private org cloud; the other answers queries via Groq. FAISS semantic retrieval, PDF/text input support.  
+`LLaMA3` `FAISS` `Groq` `LangChain` `FastAPI`
 
-🔗 https://github.com/Shaheerabdullah1/LLM-Observability-Drift-Detection-Pipeline
+### [ASK-SQL](https://github.com/Shaheerabdullah1/ASK-SQL)
+Upload a CSV, Excel, or SQL file. Ask questions in plain English. Get answers — no SQL needed. LLaMA-3-sqlcoder-8b backend with live PostgreSQL execution.  
+`FastAPI` `PostgreSQL` `HuggingFace` `JavaScript`
 
-</td>
+### [Pneumonia Detection System](https://github.com/Shaheerabdullah1/Machine-Learning-Projects/tree/main/Pneumonia-detection-system)
+Ensemble model (InceptionV3 + ResNet50 + CNN + SVM) for chest X-ray classification. Comparative architecture analysis published as a research paper.  
+**92.79% accuracy** · `TensorFlow` `Keras` `Docker`
 
-<td width="50%">
+---
 
-### ASK-SQL
-Natural Language → SQL system that converts user questions into SQL queries and generates human-readable answers.
+## Research
 
-🔗 https://github.com/Shaheerabdullah1/ASK-SQL
+**Generative and Deep Learning Analysis for Satellite Imagery Enhancement**  
+IEEE 4th International Conference on Computing and Machine Intelligence · 2025  
+GFP-GAN for satellite image sharpening + YOLO-based rooftop detection. Applied to urban planning and infrastructure analysis.
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## Currently building
 
-### LLM Secure
-Security framework for protecting LLM applications against prompt injection, data leakage, and adversarial inputs.
+Real-time AI platform for call centers — noise reduction, accent neutralization, multilingual translation, all on a low-latency streaming stack. Designed for global operations teams.
 
-🔗 https://github.com/Shaheerabdullah1/LLM-Secure
+---
 
-</td>
+## Let's talk
 
-<td width="50%">
+I'm actively looking for remote AI engineering roles.
 
-### RAG Production Implementation
-Complete production-ready Retrieval Augmented Generation pipeline with embeddings, vector DB, and scalable APIs.
+📧 shaheer.abdullah991@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE) · [Portfolio](https://shaheerabdullah.vercel.app/) · [Medium](https://medium.com/@shaheer.abdullah991) · [Resume](https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view)
 
-🔗 https://github.com/Shaheerabdullah1/RAG-Production-Ready-Implementation
+---
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Pneumonia Detection System
-Deep learning computer vision model for automated pneumonia detection using chest X-ray images.
-
-🔗 https://github.com/Shaheerabdullah1/Machine-Learning-Projects/tree/main/Pneumonia-detection-system
-
-</td>
-
-</tr>
-</table>
-
-# Technology Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,gcp,postgres,mysql,mongodb,opencv,react,js,java,cpp,nginx,git,linux,fastapi,azure&perline=9"/>
-</p>
-
-
-# AI Engineering Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Databricks-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Unsloth-Finetuning-black?style=for-the-badge">
-
-</p>
-
-# GPU & AI Compute
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/ai.gif" width="650"/>
-</p>
-
-Training and inference pipelines leverage GPU acceleration and optimized ML frameworks to deploy scalable AI systems and real-time machine learning workloads.
-
-
-# GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerabdullah1&theme=tokyonight&hide_border=true">
-</p>
-
-# GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheerabdullah1&theme=tokyo-night&hide_border=true">
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-Explore my work, research, and AI projects across different platforms.
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-<a href="https://shaheerabdullah.vercel.app/">
-<img src="https://img.shields.io/badge/🌍%20Portfolio%20Website-Visit%20Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/Shaheerabdullah1">
-<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://medium.com/@shaheer.abdullah991">
-<img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000">
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://drive.google.com/file/d/1cJH6y1skT3KqcCWdmOePUGzPyNpcTtKa/view">
-<img src="https://img.shields.io/badge/Resume-Download%20CV-FF6B00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000">
-</a>
-
-</td>
-</tr>
-</table>
-
-
-
-# Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-# Engineering Philosophy
-
-Build intelligent systems that move beyond experimentation and deliver reliable, scalable AI in real-world production environments.
+*I'm not interested in demos. I build AI systems that run in production, handle failure gracefully, and make real things faster or smarter.*
