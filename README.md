@@ -1,4 +1,4 @@
-# Shaheer Abdullah
+# Shaheer Abdullah Makavi
 
 AI Engineer specializing in LLM systems, RAG pipelines & agentic AI, from fine-tuning to production deployment. Open to remote.
 
